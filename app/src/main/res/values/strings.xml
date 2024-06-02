@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProjectGestures2</string>
+    <string-array name="AllGestures">
+        <item>Жесты при задержании</item>
+        <item>Оказание помощи</item>
+        <item>Жетсы для сотрудников ДПС</item>
+        <item>Разное</item>
+    </string-array>
+</resources>
